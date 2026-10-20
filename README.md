@@ -11,4 +11,4 @@ Het bestand landmask2020.tif is een rasterbestand afgeleid van twee bestanden va
 
 Het bestand landmask2020.tif heeft een gridcelresolutie van 25x25 meter en toont Nederland conform de landsbegrenzing van de wijk- en buurtkaart 2020 van het Centraal Bureau voor de Statistiek (CBS), waarbij alle cellen die land vertegenwoordigen de waarde 1 hebben en alle cellen die water vertegenwoordigen (waterlichamen > 1 miljoen m2) of land buiten Nederland, geen waarde (NoData) hebben. De selectie en weglating van watercellen die deel uitmaken van aaneengesloten waterlichamen van minimaal 1 miljoen vierkante meter is gedaan op basis van de verschillende landgebruiksklassen water in het bestand bodemgebruik 2020 van het CBS (NBBG2020).
 
-Voor beide bronbestanden de Wijk- en buurtkaart 2020 (CBS) en het bestand bodemgebruik 2020 (CBS) gelden geen gebruiksbeperkingen behalve de bronvermelding: Centraal Bureau voor de Statistiek (CBS).
+Voor beide bronbestanden de Wijk- en buurtkaart 2020 (CBS) en het bestand bodemgebruik 2020 (CBS) gelden een noodzakelijke bronvermelding naar het Centraal Bureau voor de Statistiek (CBS, 2020).
